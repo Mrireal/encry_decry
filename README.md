@@ -4,8 +4,8 @@ Repositorio con utilidades simples para encriptar y desencriptar texto usando AE
 
 ## Status Badges
 
-![Tests](https://github.com/TU_USUARIO/TU_REPOSITORIO/actions/workflows/tests.yml/badge.svg)
-![Format Check](https://github.com/TU_USUARIO/TU_REPOSITORIO/actions/workflows/format.yml/badge.svg)
+![Tests](https://github.com/Mrireal/encry_decry/actions/workflows/tests.yml/badge.svg)
+![Format Check](https://github.com/Mrireal/encry_decry/actions/workflows/format.yml/badge.svg)
 
 Nota: reemplaza TU_USUARIO y TU_REPOSITORIO por tu usuario y nombre real del repositorio en GitHub.
 
