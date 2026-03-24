@@ -37,7 +37,7 @@ python decrypt.py "encrypted_text" "mi-clave" "iv"
 ## Tests
 
 ```bash
-pytest -q
+pytest 
 ```
 
 ## Formato
